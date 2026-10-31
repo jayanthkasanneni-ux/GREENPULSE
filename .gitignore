@@ -1,0 +1,27 @@
+# Existing project exclusions
+frames/
+scratch_inspect/
+.system_generated/
+*.tmp
+
+# Frontend
+node_modules/
+dist/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3

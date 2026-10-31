@@ -1,0 +1,6 @@
+{
+  "name": "GREENPULSE - Climate-Resilient Crop Planning Assistant",
+  "description": "Smart agriculture decision-support platform for smallholder farmers. Analyze climate patterns, soil insights, water availability, and compare climate-resilient crop options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
